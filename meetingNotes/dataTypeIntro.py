@@ -51,3 +51,12 @@ x = int(5) + float(5.5)
 print(x)
 i = "asdf"
 print(i)
+
+print()
+
+# print(5 + "5.5")
+print(5 + float("5.5"))
+print(5, "5.5")
+print(str(5) + "5.5")
+print(f"{5}5.5") # only works in Python 2
+print("{}5.5".format(5))
