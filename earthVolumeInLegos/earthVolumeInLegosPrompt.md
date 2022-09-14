@@ -2,7 +2,7 @@ Src: https://www.101computing.net/what-if-planet-earth-was-made-of-lego/
 
 Goal: Write a Python program to determine how many lego bricks would be needed to build planet Earth.
 
-Relevnet Information:
+Relevent Information:
     * Radius of the Earth is ~6731 km
     * The dimensions of a lego brick are: L = 16 mm, W = 16 mm, H = 10 mm
     * 1 km = 1,000,000 mm
