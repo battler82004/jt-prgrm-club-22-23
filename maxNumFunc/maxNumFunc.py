@@ -14,7 +14,7 @@ def main():
 
 def maxNum(num1: float, num2: float, num3: float) -> float:
     """
-    Returns the vale largest of the three inputted numbers.
+    Returns the value largest of the three inputted numbers.
     """
     if ((num1 >= num2) and (num1 >= num3)):
         return num1
